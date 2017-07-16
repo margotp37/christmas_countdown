@@ -1,0 +1,100 @@
+/* google font use this style: font-family: 'Mountains of Christmas', cursive;  */
+
+body { margin: 0; padding: 0;
+  background: url(xmasHolly.jpg) no-repeat center;
+ color: white;
+}
+
+#christmas {
+  font-family: 'Mountains of Christmas', cursive;
+  font-size: 12px;
+  width: 500px;
+  margin: 200px auto;
+  background: #176100 url(xmas-1.jpg) no-repeat center top;
+  min-height: 395px;
+}
+
+#christmas .heading {
+  background-color: rgba(0,0,0, .5);
+  padding: 15px 0px 2px 50px;
+  margin: 0px 0px 30px 0px;
+}
+
+#christmas h1 {
+  font-size: 4.2em;
+  color: white;
+  text-transform: uppercase;
+  font-weight: 300px;
+  line-height: 70px;
+  margin: 0px; 0px; 0px; 50px;
+  padding: 0;
+  text-align: center;
+}
+
+#christmas h2 {
+  font-size: 1.5em;
+  color: white;
+  text-transform: uppercase;
+  font-weight: 700;
+  line-height: 18px;
+  margin: 0px;
+  padding: 0;
+  text-align: center;
+  letter-spacing: 9px;
+}
+
+#christmas .my-countdown .countdown-row {
+  display: block;
+  text-align: center;
+
+}
+
+#christmas .my-countdown .countdown-section {
+  display: inline-block;
+  width: 95px;
+
+}
+
+#christmas .my-countdown .countdown-amount {
+  display: block;
+  color: #fff;
+  font-size: 3.6em;
+  line-height: 55px;
+
+}
+
+#christmas .my-countdown .countdown-period {display: block;
+color: white;
+font-size: 1.4em;
+}
+
+@media screen and (max-width: 525px) {
+  #christmas {
+    font-size: 12px;
+    width: 300px;
+    min-height: 465px;
+    background-size: 400px; auto;
+  }
+#christmas .heading {
+  padding: 12px 0px 8px 0px;
+  margin-bottom: 20px;
+
+}
+
+#christmas h1 {
+  line-height: 40px;
+  font-size: 3.7em;
+}
+
+#christmas h2 {
+  line-height: 22px;
+  letter-spacing: 5px;
+
+}
+
+#christmas .my-countdown .countdown-section {
+  width: 68px;
+}
+}
+
+}
