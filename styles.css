@@ -7,14 +7,22 @@ html {
   -o-background-size: cover;
   background-size: cover;
 }
+#copyright {
+  font-family: 'Mountains of Christmas', cursive;
+ text-align: center;
+ color: white;
+ line-height: 3.5em;
+}
+
 
 #christmas {
   font-family: 'Mountains of Christmas', cursive;
   font-size: 12px;
-  width: 500px;
+  width: 750px;
   margin: 200px auto;
   background: #176100 url(xmas-1.jpg) no-repeat center top;
-  min-height: 395px;
+  background-size: cover;
+  min-height: 460px;
 }
 
 #christmas .heading {
