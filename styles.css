@@ -1,8 +1,11 @@
 /* google font use this style: font-family: 'Mountains of Christmas', cursive;  */
 
-body { margin: 0; padding: 0;
-  background: url(xmasHolly.jpg) no-repeat center;
- color: white;
+html {
+  background: url(xmasHolly.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
 
 #christmas {
