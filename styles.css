@@ -1,7 +1,7 @@
 /* google font use this style: font-family: 'Mountains of Christmas', cursive;  */
 
 html {
-  background: url(xmasHolly.jpg) no-repeat center center fixed;
+  background: url(nativity.jpg) no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -20,8 +20,7 @@ html {
   font-size: 12px;
   width: 750px;
   margin: 200px auto;
-  background: #176100 url(xmas-1.jpg) no-repeat center top;
-  background-size: cover;
+    background-size: cover;
   min-height: 460px;
 }
 
@@ -83,7 +82,7 @@ font-size: 1.4em;
   #christmas {
     font-size: 12px;
     width: 300px;
-    min-height: 465px;
+    min-height: 100px;
     background-size: 400px; auto;
   }
 #christmas .heading {
